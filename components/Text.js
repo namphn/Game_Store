@@ -37,7 +37,7 @@ const Text = styled.Text`
                 return `font-weight: 200`
 
             case bold:
-                return `font-weight:600`
+                return `font-weight: 600`
 
             case heavye:
                 return `font-weight:700`
